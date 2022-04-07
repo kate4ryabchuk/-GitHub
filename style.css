@@ -13,7 +13,7 @@ body {
 
 .info-footer {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     font-size: 8px;
     color: blue;
 }
