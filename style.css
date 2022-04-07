@@ -10,3 +10,8 @@ body {
 .time-header {
     margin: 20px 0 20px 70%;
 }
+
+footer {
+    font-size: 30px;
+    color: brown;
+}
