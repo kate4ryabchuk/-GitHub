@@ -11,9 +11,12 @@ body {
     margin: 20px 0 20px 70%;
 }
 
-.info-footer {
+footer {
     display: flex;
-    flex-direction: row;
-    font-size: 8px;
+}
+
+.info-footer {
+    font-size: 12px;
     color: blue;
+    border: 2px solid black;
 }
