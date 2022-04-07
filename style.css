@@ -1,0 +1,12 @@
+body {
+    margin: auto;
+    max-width: 800px;
+}
+
+.letter-header {
+    margin-left: 70%;
+}
+
+.time-header {
+    margin: 20px 0 20px 70%;
+}
