@@ -11,7 +11,9 @@ body {
     margin: 20px 0 20px 70%;
 }
 
-footer {
-    font-size: 30px;
-    color: brown;
+.info-footer {
+    display: flex;
+    flex-direction: column;
+    font-size: 8px;
+    color: blue;
 }
